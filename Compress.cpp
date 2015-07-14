@@ -18,7 +18,7 @@ int main()
 	else
 	{
 		//executing the program code 2
-		cout << "ok" << endl;
+		cout << "change" << endl;
 		in_file.close();
 	}
 	
